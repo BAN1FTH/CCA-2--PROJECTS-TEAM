@@ -1,5 +1,5 @@
-# Name: Your Full Name
-# PRN: Your PRN Number
+# Name: hussain murtaza
+# PRN: 1302250362
 
 from transformers import pipeline
 
