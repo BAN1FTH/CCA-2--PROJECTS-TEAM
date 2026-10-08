@@ -1,5 +1,5 @@
-# Name: Your Full Name
-# PRN: Your PRN Number
+# Name: Payal Choudhary
+# PRN: 1302250502
 
 # Simple fake RAG example (no heavy libraries needed)
 
