@@ -1,5 +1,5 @@
-# Name: Your Full Name
-# PRN: Your PRN Number
+# Name: Anuj Gajjar
+# PRN: 1302250090
 
 from transformers import pipeline
 
